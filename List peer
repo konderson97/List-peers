@@ -1,0 +1,50 @@
+ 
+    
+     name hub                 IP 
+  
+ office-peer1-BA             192.168.77.130       prod-peer
+
+ prod-peer-office-86         192.168.77.182       prod-peer
+  
+ office-peer-2018            192.168.77.19        prod-peer
+
+ Anton-1                     192.168.77.77        prod-peer          
+ 
+ Vagrant-Boxes-20            192.168.88.151       prod-peer
+
+ ibragim-production-1B      192.168.1.102         prod-peer    
+
+
+                            
+
+office-master-22.01.2018-6C       192.168.77.12       master-peer
+
+master-peer-office-88             172.16.0.201         master-peer
+
+office-master-22.01.2018(2)-BC    192.168.77.13        master-peer
+
+master-peer-5-14                  192.168.77.184      master-peer
+
+Anton-3                           192.168.77.45       master-peer
+                                   
+Vagrant-Boxes-1                   172.16.254.137      master-peer
+
+ibragim-master-new-D0             192.168.1.106       master-peer
+   
+ master-FB                          172.16.254.186     master-peer   
+
+                                 
+
+
+                                 192.168.77.104       dev-peer
+
+                                 192.168.77.186      dev-peer
+                                  
+                                 192.168.77.102      dev-peer
+                                 
+
+
+
+
+  
+  
