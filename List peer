@@ -1,7 +1,5 @@
  
-    
-     name hub                 IP 
-  
+     name hub                 IP                                           ip address of the machine      
  office-peer1-BA             192.168.77.130       prod-peer
 
  prod-peer-office-86         192.168.77.182       prod-peer
@@ -17,21 +15,21 @@
 
                             
 
-office-master-22.01.2018-6C       192.168.77.12       master-peer
+office-master-22.01.2018-6C       192.168.77.12       master-peer             192.168.77.133     
 
-master-peer-office-88             172.16.0.201         master-peer
+office-master-22.01.2018(2)-BC    192.168.77.13       master-peer            192.168.77.133     
 
-office-master-22.01.2018(2)-BC    192.168.77.13        master-peer
+office-peers-underground_1-21     172.16.0.229        master-peer             172.16.0.223 
 
-master-peer-5-14                  192.168.77.184      master-peer
 
-Anton-3                           192.168.77.45       master-peer
+
+
                                    
-Vagrant-Boxes-1                   172.16.254.137      master-peer
+
 
 ibragim-master-new-D0             192.168.1.106       master-peer
    
- master-FB                          172.16.254.186     master-peer   
+ 
 
                                  
 
