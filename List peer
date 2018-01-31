@@ -19,8 +19,9 @@ office-master-22.01.2018-6C       192.168.77.12       master-peer             19
 
 office-master-22.01.2018(2)-BC    192.168.77.13       master-peer            192.168.77.133     
 
-office-peers-underground_1-21     172.16.0.229        master-peer             172.16.0.223 
+office-peers-underground_1-21     172.16.0.229        master-peer             172.16.0.223     -  Vagrant  
 
+office-peer-underground           172.16.254.188      master-peer             172.16.0.223      -   Vagrant
 
 
 
