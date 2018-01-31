@@ -25,8 +25,11 @@ office-peer-underground           172.16.254.188      master-peer             17
 
 office-peer-30-01-2018(2)-57     192.168.77.23         master-peer             192.168.77.168  -  -  Vagrant 
 
- office-peer-30.01.2018-68       192.168.77.20          master-peer             192.168.77.168  -  -  Vagrant
+ office-peer-30.01.2018-68       192.168.77.20         master-peer             192.168.77.168  -  -  Vagrant
 
+Master-peer-office-Vagrant-31    192.168.77.16        master-peer               192.168.77.170     -  Vagrant
+
+Master-peer-office-Vagrant-C0    192.168.77.200       master-peer               192.168.77.170     -  Vagrant
 
 
                                    
