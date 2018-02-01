@@ -1,23 +1,22 @@
  
      name hub                 IP-peer                                          ip address of the machine      
- office-peer1-BA             192.168.77.130       prod-peer
+ 
+ office-peer1-BA             192.168.77.130       prod-peer         -  192.168.77.126           -Snap
 
- prod-peer-office-86         192.168.77.182       prod-peer
+ prod-peer-office-86         192.168.77.182       prod-peer        -   192.168.77.126           -Snap
   
  office-peer-2018            192.168.77.19        prod-peer
 
- Anton-1                     192.168.77.77        prod-peer          
- 
- Vagrant-Boxes-20            192.168.88.151       prod-peer
+ Vagrant-Boxes-20            192.168.88.151       prod-peer                                      -Snap
 
- ibragim-production-1B      192.168.1.102         prod-peer    
+ ibragim-production-1B      192.168.1.102         prod-peer                                       -Snap       
 
 
                             
 
-office-master-22.01.2018-6C       192.168.77.12       master-peer             192.168.77.133     
+office-master-22.01.2018-6C       192.168.77.12       master-peer             192.168.77.133    -Snap  
 
-office-master-22.01.2018(2)-BC    192.168.77.13       master-peer            192.168.77.133     
+office-master-22.01.2018(2)-BC    192.168.77.13       master-peer            192.168.77.133     -Snap
 
 office-peers-underground_1-21     172.16.0.229        master-peer             172.16.0.223     -  Vagrant  
 
