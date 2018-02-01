@@ -1,5 +1,5 @@
  
-     name hub                 IP                                           ip address of the machine      
+     name hub                 IP-peer                                          ip address of the machine      
  office-peer1-BA             192.168.77.130       prod-peer
 
  prod-peer-office-86         192.168.77.182       prod-peer
@@ -32,23 +32,24 @@ Master-peer-office-Vagrant-31    192.168.77.16        master-peer               
 Master-peer-office-Vagrant-C0    192.168.77.200       master-peer               192.168.77.170     -  Vagrant
 
 
-                                   
-
-
-ibragim-master-new-D0             192.168.1.106       master-peer
+ibragim-master-new-D0             192.168.1.106       master-peer              -------------          -Snap
    
  
 
                                  
 
 
-                                 192.168.77.104       dev-peer
+        dev1                    192.168.77.104       dev-peer               192.168.77.122      Snap
 
-                                 192.168.77.186      dev-peer
+        dev2                     192.168.77.186      dev-peer               192.168.77.121      Snap
                                   
-                                 192.168.77.102      dev-peer
+        dev 3                    192.168.77.102      dev-peer               192.168.77.121      Snap
+        
+        dev4                     192.168.77.160      dev-peer                192.168.77.122      Snap
                                  
-
+        dev5                    192.168.77.115     dev-peer                  192.168.77.188      Snap
+       
+       dev6                     192.168.77.11     dev-peer                     192.168.77.188      Snap
 
 
 
