@@ -5,32 +5,23 @@
 
  prod-peer-office-86         192.168.77.182       prod-peer        -   192.168.77.126           -Snap
   
- office-peer-2018            192.168.77.19        prod-peer
-
- Vagrant-Boxes-20            192.168.88.151       prod-peer                                      -Snap
-
- ibragim-production-1B      192.168.1.102         prod-peer                                       -Snap       
+ibragim-production-1B      192.168.1.102         prod-peer                                       -Snap       
 
 
                             
 
-office-master-22.01.2018-6C       192.168.77.12       master-peer             192.168.77.133    -Snap  
+  master-peer-1      192.168.77.21       master-peer      vagrant   
 
-office-master-22.01.2018(2)-BC    192.168.77.13       master-peer            192.168.77.133     -Snap
+ master-peer-2       192.168.77.37       master-peer       vagrant    
 
-office-peers-underground_1-21     172.16.0.229        master-peer             172.16.0.223     -  Vagrant  
+vagrant-1 7cv        192.168.77.186         master-peer         Vagrant  
 
-office-peer-underground           172.16.254.188      master-peer             172.16.0.223      -   Vagrant
+Vagrant-m-f5         192.168.77.189         master-peer         Vagrant
 
-office-peer-30-01-2018(2)-57     192.168.77.23         master-peer             192.168.77.168  -  -  Vagrant 
+Master1-8e           192.168.77.190        master-peer          Vagrant 
 
- office-peer-30.01.2018-68       192.168.77.20         master-peer             192.168.77.168  -  -  Vagrant
-
-Master-peer-office-Vagrant-31    192.168.77.16        master-peer               192.168.77.170     -  Vagrant
-
-Master-peer-office-Vagrant-C0    192.168.77.200       master-peer               192.168.77.170     -  Vagrant
-
-
+master-1-60        192.168.88.102         master-peer              Vagran
+ 
 ibragim-master-new-D0             192.168.1.106       master-peer              -------------          -Snap
    
  
@@ -38,17 +29,6 @@ ibragim-master-new-D0             192.168.1.106       master-peer              -
                                  
 
 
-        dev1                    192.168.77.104       dev-peer               192.168.77.122      Snap
-
-        dev2                     192.168.77.186      dev-peer               192.168.77.121      Snap
-                                  
-        dev 3                    192.168.77.102      dev-peer               192.168.77.121      Snap
-        
-        dev4                     192.168.77.160      dev-peer                192.168.77.122      Snap
-                                 
-        dev5                    192.168.77.115     dev-peer                  192.168.77.188      Snap
-       
-       dev6                     192.168.77.11     dev-peer                     192.168.77.188      Snap
 
 
 
