@@ -1,30 +1,31 @@
  
-         IP-peer                                                
-     192.168.77.23         prod-peer             vagrant                               
-     192.168.77.28         prod-peer             vagrant 
-     192.168.77.12        prod-peer             vagrant 
-     192.168.77.16         prod-peer             vagrant 
+         IP-peer                                                      ip ip of machine     
+         
+     192.168.77.23         prod-peer             vagrant       192.168.77.168                           
+     192.168.77.28         prod-peer             vagrant      192.168.77.168
+     192.168.77.12        prod-peer             vagrant       192.168.77.195
+     192.168.77.16         prod-peer             vagrant       192.168.77.195
                             
 
 
                             master
-     192.168.77.25        master-peer             vagrant 
-     192.168.77.27        master-peer             vagrant 
-     192.168.77.20       master-peer             vagrant 
-     192.168.77.22        master-peer             vagrant 
-     192.168.77.19        master-peer             vagrant 
-     192.168.77.17       master-peer             vagrant 
+     192.168.77.25        master-peer             vagrant      192.168.77.126
+     192.168.77.27        master-peer             vagrant      192.168.77.126
+     192.168.77.20       master-peer             vagrant       192.168.77.133
+     192.168.77.22        master-peer             vagrant      192.168.77.133
+     192.168.77.19        master-peer             vagrant      192.168.77.170
+     192.168.77.17       master-peer             vagrant       192.168.77.170
      
      
                          dev
                          
                          
-     192.168.77.24       dev-peer             vagrant 
-     192.168.77.29       dev-peer             vagrant 
-     192.168.77.31      dev-peer             vagrant 
-     192.168.77.30      dev-peer             vagrant 
-     192.168.77.34       dev-peer             vagrant 
-     192.168.77.33      dev-peer             vagrant 
+     192.168.77.24       dev-peer             vagrant         192.168.77.121
+     192.168.77.29       dev-peer             vagrant         192.168.77.121
+     192.168.77.31      dev-peer             vagrant          192.168.77.188
+     192.168.77.30      dev-peer             vagrant          192.168.77.188
+     192.168.77.34       dev-peer             vagrant          192.168.77.122
+     192.168.77.33      dev-peer             vagrant          192.168.77.122
 
                                  
 
