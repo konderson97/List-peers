@@ -6,21 +6,25 @@
      192.168.77.16         prod-peer             vagrant 
                             
 
-  master-peer-1      192.168.77.21       master-peer      vagrant   
 
- master-peer-2       192.168.77.37       master-peer       vagrant    
-
-vagrant-1 7cv        192.168.77.186         master-peer         Vagrant  
-
-Vagrant-m-f5         192.168.77.189         master-peer         Vagrant
-
-Master1-8e           192.168.77.190        master-peer          Vagrant 
-
-master-1-60        192.168.88.102         master-peer              Vagran
- 
-ibragim-master-new-D0             192.168.1.106       master-peer              -------------          -Snap
-   
- 
+                            master
+     192.168.77.25        master-peer             vagrant 
+     192.168.77.27        master-peer             vagrant 
+     192.168.77.20       master-peer             vagrant 
+     192.168.77.22        master-peer             vagrant 
+     192.168.77.19        master-peer             vagrant 
+     192.168.77.17       master-peer             vagrant 
+     
+     
+                         dev
+                         
+                         
+     192.168.77.24       dev-peer             vagrant 
+     192.168.77.29       dev-peer             vagrant 
+     192.168.77.31      dev-peer             vagrant 
+     192.168.77.30      dev-peer             vagrant 
+     192.168.77.34       dev-peer             vagrant 
+     192.168.77.33      dev-peer             vagrant 
 
                                  
 
