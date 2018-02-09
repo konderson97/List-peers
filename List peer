@@ -2,7 +2,7 @@
          IP-peer                                                      ip ip of machine       location   
          
      192.168.77.35        prod-peer             vagrant       192.168.77.168             top floor                
-     192.168.77.28         prod-peer             vagrant      192.168.77.168              top floor
+     192.168.77.23         prod-peer             vagrant      192.168.77.168              top floor
      192.168.77.12        prod-peer             vagrant       192.168.77.195              top floor
      192.168.77.16         prod-peer             vagrant       192.168.77.195             top floor
                             
