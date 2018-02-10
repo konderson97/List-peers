@@ -13,21 +13,13 @@
      192.168.77.36        master-peer             vagrant      192.168.77.168         top floor
      192.168.77.40      master-peer             vagrant       192.168.77.195         top floor
      192.168.77.42       master-peer             vagrant      192.168.77.195         top floor
-     192.168.77.19        master-peer             vagrant      192.168.77.122          top floor
-     192.168.77.17       master-peer             vagrant       192.168.77.170          top floor
+     192.168.77.21        master-peer             vagrant      192.168.77.122          top floor
+     192.168.77.44       master-peer             vagrant       192.168.77.122         top floor
+     192.168.77.27      master-peer             vagrant       192.168.77.24        top floor
+     192.168.77.25      master-peer             vagrant       192.168.77.24         top floor
+     192.168.77.19     master-peer             vagrant       192.168.77.170         top floor
      
-     
-                         dev
-                         
-                         
-     192.168.77.24       dev-peer             vagrant         192.168.77.121         top floor
-     192.168.77.29       dev-peer             vagrant         192.168.77.121         top floor
-     192.168.77.31      dev-peer             vagrant          192.168.77.188         top floor
-     192.168.77.30      dev-peer             vagrant          192.168.77.188         top floor
-     192.168.77.34       dev-peer             vagrant          192.168.77.122       top floor
-     192.168.77.33      dev-peer             vagrant          192.168.77.122        top floor
-
-                                 
+                        
 
 
 
