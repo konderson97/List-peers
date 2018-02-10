@@ -1,19 +1,19 @@
  
          IP-peer                                                      ip ip of machine       location   
          
-     192.168.77.35        prod-peer             vagrant       192.168.77.168             top floor                
-     192.168.77.23         prod-peer             vagrant      192.168.77.168              top floor
-     192.168.77.12        prod-peer             vagrant       192.168.77.195              top floor
-     192.168.77.16         prod-peer             vagrant       192.168.77.195             top floor
-                            
-
+     192.168.77.11       prod-peer             vagrant       192.168.77.126             top floor                
+     192.168.77.28         prod-peer             vagrant      192.168.77.126             top floor
+     192.168.77.17        prod-peer             vagrant       192.168.77.12              top floor
+     192.168.77.16        prod-peer             vagrant       192.168.77.12             top floor
+     192.168.77.22        prod-peer             vagrant       192.168.77.188            top floor                    
+     192.168.77.23       prod-peer             vagrant       192.168.77.188           top floor
 
                             master
-     192.168.77.25        master-peer             vagrant      192.168.77.126          top floor
-     192.168.77.27        master-peer             vagrant      192.168.77.126          top floor
-     192.168.77.20       master-peer             vagrant       192.168.77.133          top floor
-     192.168.77.22        master-peer             vagrant      192.168.77.133          top floor
-     192.168.77.19        master-peer             vagrant      192.168.77.170          top floor
+     192.168.77.32       master-peer             vagrant      192.168.77.168          top floor
+     192.168.77.36        master-peer             vagrant      192.168.77.168         top floor
+     192.168.77.40      master-peer             vagrant       192.168.77.195         top floor
+     192.168.77.42       master-peer             vagrant      192.168.77.195         top floor
+     192.168.77.19        master-peer             vagrant      192.168.77.122          top floor
      192.168.77.17       master-peer             vagrant       192.168.77.170          top floor
      
      
