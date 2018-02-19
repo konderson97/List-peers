@@ -9,7 +9,7 @@
      192.168.77.23       prod-peer             vagrant       192.168.77.188           top floor
 
                             master
-     192.168.77.32       master-peer             vagrant      192.168.77.168          top floor
+     192.168.77.39       master-peer             vagrant      192.168.77.168          top floor
      192.168.77.36        master-peer             vagrant      192.168.77.168         top floor
      192.168.77.40      master-peer             vagrant       192.168.77.195         top floor
      192.168.77.42       master-peer             vagrant      192.168.77.195         top floor
